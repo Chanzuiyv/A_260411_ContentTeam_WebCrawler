@@ -1,0 +1,17 @@
+{
+    "table_folder": "C:/Users/ThinkPad/Desktop/杂/逐声计划/团综文字整理/代码/自动获取弹幕/剧集信息",
+    "output_root": "C:/Users/ThinkPad/Desktop/杂/逐声计划/团综文字整理/自动生成字幕_总输出",
+    "lyrics_folder": "C:/lyrics",
+    "report_path": "C:/Users/ThinkPad/Desktop/杂/逐声计划/团综文字整理/异常报告.csv",
+    "song_similarity": 0.8,
+    "song_max_official_ids": 3,
+    "song_duplicate_limit": 3,
+    "drama_permanent_min": 10,
+    "drama_permanent_fallback": 5,
+    "drama_temp_min": 1,
+    "solo_keywords": ["福利", "充电", "提示音", "电话语音"],
+    "song_keywords": ["歌", "曲"],
+    "max_workers": 4,
+    "request_retries": 3,
+    "cache_hours": 24
+}
